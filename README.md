@@ -5,7 +5,7 @@
 
 ## Development
 
-Clone, then run dev server:
+Clone, add ENV vars to `env.local`, then run dev server:
 
 ```bash
 npm run dev

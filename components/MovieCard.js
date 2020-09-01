@@ -13,7 +13,7 @@ const MovieCard = ({ title = 'Movie Title', image = 'https://via.placeholder.com
   return (
     <Grid item key={id} xs={12} sm={6} md={4}>
       <Card className={classes.card}>
-        <Link href={`/${id}`}>
+        <Link href="/movie/[id]" as={`/movie/${id}`}>
           <CardActionArea>
             <CardMedia className={classes.media} image={image} title={title} />
             <CardContent>
