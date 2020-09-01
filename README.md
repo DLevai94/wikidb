@@ -1,7 +1,7 @@
 # NextJS + Material-UI OMDB-Wiki API
 
 ## Demo:
-[http://localhost:3000](http://localhost:3000)
+[https://wikidb.vercel.app/](https://wikidb.vercel.app/)
 
 ## Development
 
